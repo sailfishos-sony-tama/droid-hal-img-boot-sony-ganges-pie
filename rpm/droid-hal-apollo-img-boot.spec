@@ -8,4 +8,6 @@
 %define display_brightness_path /sys/class/backlight/panel0-backlight/brightness
 %define display_brightness 1024
 
+%define lvm_root_size 4000
+
 %include initrd/droid-hal-device-img-boot.inc
