@@ -3,4 +3,4 @@
 Main purpose of this README is to follow current kernel version. Release tag in this repository
 is used for RPM versioning of kernel packages.
 
-Current kernel: 4.9.230
+Current kernel: 4.14.254
